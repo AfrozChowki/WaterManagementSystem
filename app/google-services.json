@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "401138954944",
+    "firebase_url": "https://water-management-system-3366c.firebaseio.com",
+    "project_id": "water-management-system-3366c",
+    "storage_bucket": "water-management-system-3366c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401138954944:android:369ea517593f665f",
+        "android_client_info": {
+          "package_name": "com.afroz.watermanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401138954944-6e6v9rc9dp3dgudisenisune46b5mdl5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.afroz.watermanagementsystem",
+            "certificate_hash": "d5fa468ce6467b17865afc4161ba0afebafad125"
+          }
+        },
+        {
+          "client_id": "401138954944-c7emcd256lbbgdh8frcldchcjqjknenc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYWo8XVFtiDCF6ZLwFQ7YRrv8y3dw7yfc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401138954944-c7emcd256lbbgdh8frcldchcjqjknenc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401138954944:android:951b4ead0e063704",
+        "android_client_info": {
+          "package_name": "com.afroz.watermanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401138954944-c7emcd256lbbgdh8frcldchcjqjknenc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYWo8XVFtiDCF6ZLwFQ7YRrv8y3dw7yfc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
